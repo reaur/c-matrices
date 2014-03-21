@@ -1,4 +1,0 @@
-c-matrices
-==========
-
-Matrices program 
